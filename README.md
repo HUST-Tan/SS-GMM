@@ -1,5 +1,5 @@
 # SS-GMM
-Implementation of ICCV 2021 oral paper -- Self-Supervised Image Prior Learning with GMM from a Single Noisy Image
+Implementation of ICCV 2021 oral paper -- [Self-Supervised Image Prior Learning with GMM from a Single Noisy Image](https://openaccess.thecvf.com/content/ICCV2021/papers/Liu_Self-Supervised_Image_Prior_Learning_With_GMM_From_a_Single_Noisy_ICCV_2021_paper.pdf)
 ## Requirements
 Matlab (Tested on Matlab R2017b)
 
@@ -11,11 +11,13 @@ Run Demo_SS_GMM.m
 
 ````
 ```
-@InProceedings{SS-GMM,
-author = {Liu, Haosen and Liu, Xuan and Lu, Jiangbo and Tan, Shan},
-title = {Self-Supervised Image Prior Learning with GMM from a Single Noisy Image},
-booktitle = {Proceedings of the IEEE International Conference on Computer Vision (ICCV)},
-year = {2021}
+@InProceedings{Liu_2021_ICCV,
+    author    = {Liu, Haosen and Liu, Xuan and Lu, Jiangbo and Tan, Shan},
+    title     = {Self-Supervised Image Prior Learning With GMM From a Single Noisy Image},
+    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+    month     = {October},
+    year      = {2021},
+    pages     = {2845-2854}
 }
 ```
 ````
