@@ -9,7 +9,6 @@ Run Demo_SS_GMM.m
 
 ## Citation
 
-````
 ```
 @InProceedings{Liu_2021_ICCV,
     author    = {Liu, Haosen and Liu, Xuan and Lu, Jiangbo and Tan, Shan},
@@ -20,4 +19,3 @@ Run Demo_SS_GMM.m
     pages     = {2845-2854}
 }
 ```
-````
